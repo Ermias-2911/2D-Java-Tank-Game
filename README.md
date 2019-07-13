@@ -32,3 +32,13 @@ a. Note when only rotating left or right, the tank MUST NOT move forwards or bac
 ### Controller:
 - Player 1: WASD, SPACE to shoot, A to turn left, D to turn right,  W to move forward, and S to move backward. <br/>
 - Player 2: ARROWS, ENTER to shoot and use arrows to move in the arrow direction. <br/>
+
+
+
+![Screen Shot 2019-07-12 at 6 12 17 PM](https://user-images.githubusercontent.com/47591726/61165134-4be61200-a4d1-11e9-9269-49b89486df86.png)
+
+![Screen Shot 2019-07-12 at 6 15 28 PM](https://user-images.githubusercontent.com/47591726/61165135-4d173f00-a4d1-11e9-9fab-584836431821.png)
+
+![Screen Shot 2019-07-12 at 6 12 37 PM](https://user-images.githubusercontent.com/47591726/61165138-50122f80-a4d1-11e9-964b-1c69eb477eb3.png)
+
+![UML](https://user-images.githubusercontent.com/47591726/61165140-53a5b680-a4d1-11e9-813f-bb90fc4aa1dc.png)
