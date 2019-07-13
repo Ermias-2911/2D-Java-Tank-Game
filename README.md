@@ -1,5 +1,4 @@
 # 2D Java Tank Game
- ## Author Ermias Haile
  ## Author: Ermias Haile
 
 ## 2D Tank Game 
